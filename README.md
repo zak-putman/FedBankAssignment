@@ -21,7 +21,7 @@ Computer and access to internet to pull the repository.
 ### Installing
 
 Once repository is pulled there is a folder labeled "Project Build".
-In this file is a sort cut labeled "ClickMe" double click and watch the magic happen.
+In this file is an .exe labeled "TextReader" double click and watch the magic happen.
 
 
 ## Contributing
