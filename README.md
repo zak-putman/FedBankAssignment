@@ -20,9 +20,11 @@ Computer and access to internet to pull the repository.
 
 ### Installing
 
-Once repository is pulled there is a folder labeled "Project Build".
-In this file is an .exe labeled "TextReader" double click and watch the magic happen.
+Once repository is pulled there is a .zip folder labeled "Project Build".
+Exact all in the zip to current directory.
+In the unzipped folder is an .exe labeled "TextReader" double click and watch the magic happen.
 
+-Note:GitHub gave me quite a bit of trouble with some commits, I think mainly due to creating a user and trying to push right of the rip. (I use bitbucket mostly)
 
 ## Contributing
 
