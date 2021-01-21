@@ -14,6 +14,7 @@
 *.suo
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
+!/Project Build/*
 # Include dlls if they're in the CommonReferences directory
 !*CommonReferences/*.dll
 ####################
@@ -47,7 +48,6 @@ TestResults/
 *.jar
 *.rar
 *.tar
-*.zip
 ######################
 # Logs and databases #
 ######################
